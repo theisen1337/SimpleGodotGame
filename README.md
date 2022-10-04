@@ -49,3 +49,6 @@ Push branch to server.
 ```cmd 
 git push --set-upstream origin "MyBranchName"
 ```
+
+![image](https://user-images.githubusercontent.com/16194561/193712769-b9721264-f518-48aa-bd73-e32294a86a5f.png)
+
