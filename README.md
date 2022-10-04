@@ -12,9 +12,46 @@
 * [Godot tutorials](https://godottutorials.com/courses)
 * [Godot Docs](https://docs.godotengine.org/en/stable/community/tutorials.html)
 * [First Game](https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html)
+* [C# in Godot](https://godotengine.org/article/introducing-csharp-godot)
+* [Godot C# in VS](https://github.com/godotengine/godot-csharp-visualstudio)
+* [C# basics (Godot Docs)](https://docs.godotengine.org/en/3.4/tutorials/scripting/c_sharp/c_sharp_basics.html)
 
 # SimpleGodotGame
 Create a simple game to explore Godot Engine with 2d gamnes. The objective of this project is to create a astroid game with godot, exploring the core features offered.
+We will start with the pong example and convert it to astroids.
+# Pong with C#
+
+A simple Pong game. This demo shows best practices
+for game development in Godot, including
+[signals](https://docs.godotengine.org/en/latest/getting_started/step_by_step/signals.html).
+
+Language: [C#](https://docs.godotengine.org/en/latest/tutorials/scripting/c_sharp/index.html)
+
+Renderer: GLES 2
+
+Note: There is a GDScript version available [here](https://github.com/godotengine/godot-demo-projects/tree/master/2d/pong).
+
+Note: There is a VisualScript version available [here](https://github.com/godotengine/godot-demo-projects/tree/master/visual_script/pong).
+
+Note: There is a GDNative C++ version available [here](https://github.com/godotengine/gdnative-demos/tree/master/cpp/pong).
+
+Check out this demo on the asset library: https://godotengine.org/asset-library/asset/535
+
+## How does it work?
+
+The walls, paddle, and ball are all
+[`Area2D`](https://docs.godotengine.org/en/latest/classes/class_area2d.html)
+nodes. When the ball touches the walls or the paddles,
+they emit signals and modify the ball.
+
+## Screenshots
+
+![Screenshot](screenshots/pong.png)
+
+
+
+
+
 
 ## Github step by step guide written out.
 
