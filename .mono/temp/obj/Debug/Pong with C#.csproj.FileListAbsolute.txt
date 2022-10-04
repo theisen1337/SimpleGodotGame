@@ -1,0 +1,9 @@
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\bin\Debug\Pong with C#.dll
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\bin\Debug\Pong with C#.pdb
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.csproj.AssemblyReference.cache
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.AssemblyInfoInputs.cache
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.AssemblyInfo.cs
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.dll
+C:\Users\Thomas\new-computer\Godot_examples\.mono\temp\obj\Debug\Pong with C#.pdb
