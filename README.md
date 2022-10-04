@@ -30,7 +30,9 @@ Create a new feature branch
 ```cmd
 git checkout -b "MyBranchName"
 ```
-**Make Changes to your code using VSCode, notepad++, Visual Studio, text IDE**
+
+**_"Make Changes to your code using VSCode, notepad++, Visual Studio, text IDE"_**
+
 Check status of code.
 ```cmd
 git status
@@ -45,5 +47,5 @@ git commit -m "I made a change etc."
 ```
 Push branch to server.
 ```cmd 
-change here
+git push --set-upstream origin "MyBranchName"
 ```
